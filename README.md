@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # How to compile
 
 ## Install dependencies
@@ -77,6 +76,3 @@ Big thanks to https://vulkan-tutorial.com without which this project wouldn't ha
 - mlarouche and co. for the image IO library (https://github.com/zigimg/zigimg)
 - kooparse and co. for the linear algebra library (https://github.com/kooparse/zalgebra)
 - mgord9518 and co. for perlin-zig (https://github.com/mgord9518/perlin-zig/blob/main/lib/perlin.zig)
-=======
-# minecraftty
->>>>>>> 7c9fafcb3fe549af8cb54e2c22633014f3124820
